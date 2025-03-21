@@ -1,39 +1,39 @@
 {
-  "name": "upload-file-using-reactjs-nodejs",
-  "version": "1.0.0",
-  "description": "Express.js application with TypeScript ES modules",
-  "main": "dist/server.js",
-  "type": "module",
-  "scripts": {
-    "start": "node dist/server.js",
-    "dev": "tsx watch src/server.ts",
-    "build": "tsc",
-    "lint": "eslint . --ext .ts"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "helmet": "^8.1.0",
-    "multer": "^1.4.5-lts.1"
-  },
-  "devDependencies": {
-    "@eslint/js": "^9.22.0",
-    "@types/cors": "^2.8.17",
-    "@types/dotenv": "^6.1.1",
-    "@types/express": "^5.0.1",
-    "@types/multer": "^1.4.12",
-    "@types/node": "^22.13.10",
-    "eslint": "^9.22.0",
-    "globals": "^16.0.0",
-    "nodemon": "^3.1.9",
-    "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0",
-    "tsx": "^4.19.3",
-    "typescript": "^5.8.2",
-    "typescript-eslint": "^8.27.0"
+    "name": "upload-file-using-reactjs-nodejs",
+    "version": "1.0.0",
+    "description": "Express.js application with TypeScript ES modules",
+    "main": "dist/server.js",
+    "type": "module",
+    "scripts": {
+      "start": "node dist/server.js",
+      "dev": "tsx watch src/server.ts",
+      "build": "tsc",
+      "lint": "eslint . --ext .ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^16.4.7",
+      "express": "^4.21.2",
+      "helmet": "^8.1.0",
+      "multer": "^1.4.5-lts.1"
+    },
+    "devDependencies": {
+      "@eslint/js": "^9.22.0",
+      "@types/cors": "^2.8.17",
+      "@types/dotenv": "^6.1.1",
+      "@types/express": "^5.0.1",
+      "@types/multer": "^1.4.12",
+      "@types/node": "^22.13.10",
+      "eslint": "^9.22.0",
+      "globals": "^16.0.0",
+      "nodemon": "^3.1.9",
+      "ts-node": "^10.9.2",
+      "tsconfig-paths": "^4.2.0",
+      "tsx": "^4.19.3",
+      "typescript": "^5.8.2",
+      "typescript-eslint": "^8.27.0"
+    }
   }
-}
